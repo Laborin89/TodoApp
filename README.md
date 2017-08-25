@@ -31,9 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<video controls="true">
-    <source src="https://youtu.be/lveV7vMeocc" type="video/mp4" />
-</video>
+https://youtu.be/lveV7vMeocc
 
 Video created with Mobizen
 
