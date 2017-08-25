@@ -31,11 +31,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<iframe width="420" height="315"
-src="https://youtu.be/lveV7vMeocc">
-</iframe>
+<video controls="true">
+    <source src="https://youtu.be/lveV7vMeocc" type="video/mp4" />
+</video>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+Video created with Mobizen
 
 ## Project Analysis
 
